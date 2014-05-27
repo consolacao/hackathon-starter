@@ -3,7 +3,7 @@ Hackathon Starter [![Dependency Status](https://david-dm.org/consolacao/abthacka
 =================
 A boilerplate for **Node.js** web applications. OUTDATED!!!
 
-**Live Demo**: http://hackathonstarter.herokuapp.com :octocat:
+**Live Demo**: http://abthackathon.herokuapp.com :octocat:
 
 If you have attended any hackathons in the past then you know how much time it takes to
 get a project started. Decide on an idea, pick a programming language, pick a web framework,
